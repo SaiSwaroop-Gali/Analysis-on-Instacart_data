@@ -1,7 +1,7 @@
 # Analysis-on-Instacart_data
 ## Data Source
 
-![Analysis-on-Instacart_data](instacart.png)
+![Analysis-on-Instacart_data](images/instacart.png)
 
 **Tech Stack:** PostgreSQL, Python
 
